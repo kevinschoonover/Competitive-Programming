@@ -1,6 +1,7 @@
 '''
 Programmer: Kevin Schoonover
-Date: 2016/9/2
+Start Date: 2016/09/03
+End Date:
 Program: Height Ordering (https://open.kattis.com/problems/height)
 '''
 from math import fabs

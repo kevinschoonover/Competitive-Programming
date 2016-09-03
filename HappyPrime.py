@@ -1,6 +1,7 @@
 '''
 Programmer: Kevin Schoonover
-Date: 2016/9/1
+Start Date: 2016/09/02
+End Date:
 Program: Happy Happy Prime Prime (https://open.kattis.com/contests/na15warmup5/problems/happyprime)
 '''
 import sys
