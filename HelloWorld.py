@@ -2,7 +2,7 @@
 Programmer: Kevin Schoonover
 Start Date: 2016/09/03
 End Date: 2016/09/03
-Program: Height Ordering (https://open.kattis.com/problems/height)
+Program: Hello World! (https://open.kattis.com/problems/hello)
 '''
 
 print('Hello World')
