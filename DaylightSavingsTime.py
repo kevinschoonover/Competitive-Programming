@@ -1,7 +1,7 @@
 '''
-Programmer:,Kevin Schoonover
+Programmer: Kevin Schoonover
 Start Date: 2016/09/03
-End Date:
+End Date: 2016/09/03
 Program: Daylight Saving Time (https://open.kattis.com/problems/dst)
 '''
 from math import floor
@@ -26,10 +26,3 @@ def ConvertTime(minuteTime):
     hours = int(floor(minuteTime/60))
     minutes = minuteTime - hours * 60
     return hours,minutes
-
-with open("test.txt", 'r') as f:
-    index = int(f.readline())
-    for i in range(index):
-        inputList = f.readline()
-        inputList.replace(" ","").split(',')
-        print(i,":",inputList[3])
