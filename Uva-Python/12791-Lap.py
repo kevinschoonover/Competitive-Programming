@@ -1,7 +1,7 @@
 '''
 Programmer:Kevin Schoonover
 Start Date: 2016/09/04
-End Date:
+End Date: 2016/09/04
 Program: 12791 - Lap (https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=823&page=show_problem&problem=4656)
 '''
 
