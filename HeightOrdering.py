@@ -4,7 +4,7 @@ Start Date: 2016/09/03
 End Date:
 Program: Height Ordering (https://open.kattis.com/problems/height)
 '''
-from math import fabs
+
 def HeightSort(inputIndex, inputList):
 
 HeightSort(1,[900,901,902,903,904,905,906,907,908,909,910,911,912,913,914,915,916,917,918,919])
