@@ -10,4 +10,7 @@ calender = {'January':31,'February':28,'March':31,'April':30,
             'October':31,'November':30,'December':31}
 
 def isLeapYear(year):
-    
+    if year % 4 == 0:
+        return True
+    elif:
+        return False
